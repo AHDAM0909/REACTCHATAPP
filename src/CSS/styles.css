@@ -1,0 +1,11 @@
+.quiz-btn{
+  border-radius: 15px;
+  outline: none;
+  border: 1px solid white;
+  background-color: green;
+  color: white;
+  padding: 6px;
+  width: -webkit-fil-available;
+  margin-top: 10px;
+  filter: drop-shadow(1px 1px 4px rgba(12,11,15,0.3));
+}
